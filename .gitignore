@@ -1,0 +1,7 @@
+*.class
+.classPath
+.project
+*.txt
+/.metadata
+MHD/.settings/
+MHD/bin/
